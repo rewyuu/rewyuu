@@ -1,13 +1,16 @@
-<div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22" />
-</div>
+## Hi there 👋
 
-<div align="center"><h3>I code for fun.</h3><div>
+<!--
+**rewyuu/rewyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=williansantosnt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Now playing on Spotify" />
-</p>
+Here are some ideas to get you started:
 
-<div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=120&section=footer"/>
-</div>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about .                     ..
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
