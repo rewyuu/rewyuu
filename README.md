@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="ralsei-smoking" alt="Ralsei" />
+  <img src="ralsei-smoking.gif" alt="ralsei" />
 </p>
 
 <br>
