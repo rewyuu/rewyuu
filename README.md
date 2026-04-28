@@ -5,8 +5,11 @@
 <br>
 
 <div align="center">
-  <img src="ralsei-smoking.gif" alt="ralsei" />
-  <h3>nil</h3>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img src="ralsei-smoking.gif" alt="ralsei" width="100" />
+    
+    <h3 style="margin: 0;">nil</h3>
+  </div>
 </div>
 
 
