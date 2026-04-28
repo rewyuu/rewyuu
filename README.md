@@ -5,7 +5,6 @@
 <div align="center"><h3>nil</h3><div>
 
 <br>
-![](ralsei-smoking-that-blunt.gif)
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=zzkj7cnwrjnksm8tc6h53k47d&redirect=true">
