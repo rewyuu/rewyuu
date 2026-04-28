@@ -4,10 +4,11 @@
 
 <br>
 
-<p align="center">
+<div align="center">
   <img src="ralsei-smoking.gif" alt="ralsei" />
-  <div align="center"><h3>nil</h3><div>
-</p>
+  <h3>nil</h3>
+</div>
+
 
 
 
