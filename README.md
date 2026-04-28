@@ -2,9 +2,16 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22" />
 </div>
 
-<div align="center"><h3>nil</h3><div>
+<br>
+
+<p align="center">
+  <img src="ralsei-smoking-that-blunt.gif" alt="Ralsei" />
+</p>
 
 <br>
+
+<div align="center"><h3>nil</h3><div>
+
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=zzkj7cnwrjnksm8tc6h53k47d&redirect=true">
