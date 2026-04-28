@@ -6,11 +6,9 @@
 
 <p align="center">
   <img src="ralsei-smoking.gif" alt="ralsei" />
+  <div align="center"><h3>nil</h3><div>
 </p>
 
-<br>
-
-<div align="center"><h3>nil</h3><div>
 
 
 <p align="center">
