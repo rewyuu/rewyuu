@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="ralsei-smoking.gif" alt="ralsei" /> &nbsp; <h3>nil</h3>
+  <h3>nil</h3> &nbsp; <img src="ralsei-smoking.gif" alt="ralsei" />
 </div>
 
 <br>
