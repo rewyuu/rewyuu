@@ -7,7 +7,8 @@
 <div align="center">
   <h3>nil</h3> &nbsp; <img src="ralsei-smoking.gif" alt="ralsei" /> &nbsp; 
                       <img src="gopher-dance-long.gif" alt="gopher" />  &nbsp;
-                      <img src="doombringer.gif" alt="doombringer" /> 
+                      <img src="doombringer.gif" alt="doombringer" /> &nbsp;
+                      <img src="hornet.gif" alt="hornet" /> 
 </div>
 
 <br>
