@@ -6,9 +6,13 @@
 
 <div align="center">
   <h3>nil</h3> &nbsp; <img src="ralsei-smoking.gif" alt="ralsei" /> &nbsp; 
+                      <img src="kris.gif" alt="kris" /> &nbsp; 
+                      <img src="susie.gif" alt="kris" /> &nbsp; 
+                      <img src="spamton.gif" alt="spamton" /> &nbsp; 
                       <img src="gopher-dance-long.gif" alt="gopher" />  &nbsp;
                       <img src="doombringer.gif" alt="doombringer" /> &nbsp;
-                      <img src="hornet.gif" alt="hornet" /> 
+                      <img src="hornet.gif" alt="hornet" /> &nbsp;
+                      <img src="madeline.gif" alt="madeline" /> &nbsp;
 </div>
 
 <br>
