@@ -5,7 +5,9 @@
 <br>
 
 <div align="center">
-  <h3>nil</h3> &nbsp; <img src="ralsei-smoking.gif" alt="ralsei" /> &nbsp; <img src="gopher-dance-long.gif" alt="gopher" />
+  <h3>nil</h3> &nbsp; <img src="ralsei-smoking.gif" alt="ralsei" /> &nbsp; 
+                      <img src="gopher-dance-long.gif" alt="gopher" />  &nbsp;
+                      <img src="doombringer.gif" alt="doombringer" /> 
 </div>
 
 <br>
