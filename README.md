@@ -14,7 +14,8 @@
                       <img src="hornet.gif" alt="hornet" /> &nbsp;
                       <img src="madeline.gif" alt="madeline" /> &nbsp;
                       <img src="v1.gif" alt="v1" /> &nbsp;
-                      <img src="big-saac.gif" alt="big-saac" />
+                      <img src="big-saac.gif" alt="big-saac" /> &nbsp;
+                      <img src="jackenstein-pumpkin.gif" alt="pumpkin" />
 </div>
 
 <br>
